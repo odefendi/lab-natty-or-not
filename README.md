@@ -15,8 +15,9 @@ Juntei informações que ja sabia de noticiarios sobre o time do Eagles, e pedi 
 No notebook lm, usei a função de gerar podcast, que é um text-to-speech, e baixei esse audio para a formação do podcast. Já para a imagem dos personagens conversando, usei o leonardoAI para dar vida as referencias que trouxe como cor da camisa, assunto falado, etc.
 
 ## 🚀 Resultados
--imagem dos apresentadores do podcast: 
--audio do podcast:
+-imagem dos apresentadores do podcast: apresentadores_podcast.jpeg
+
+-audio do podcast: podcast_eagles.m4a
 
 ## 💭 Reflexão (Opcional)
 A parte visual é a mais complicada, onde é necessário olhos mais atentos para corrigir os erros, que, quando falamos de copia da realidade, os modelos populares de IA ainda não conseguem ser totalmente fidedigno.
